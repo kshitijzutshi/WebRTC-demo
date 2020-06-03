@@ -1,4 +1,4 @@
-# Simple Video Chat WebRTC
+# Simple Video Chat WebRTC  :tv:
 
 ### By using [simple-peer](https://github.com/feross/simple-peer), this web app connects video chat between two clients.
 
